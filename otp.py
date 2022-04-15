@@ -1,5 +1,8 @@
 import math
 
+string = "Hello"
+key = "world"
+
 def toBinary(a):
   l,m=[],[]
   for i in a:
@@ -9,5 +12,8 @@ def toBinary(a):
   return m
 
 #print(toBinary("Hello world"))
-yes = ''.join(toBinary("Hello"))
-print(yes)
+binary_string = ' '.join(toBinary(string))
+binary_key = ' '.join(toBinary(key))
+
+print(binary_string)
+print(binary_key)
