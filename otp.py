@@ -1,8 +1,8 @@
 import math
 from unittest import result
 
-string = "Hello"
-key = "world"
+string = "gilbert"
+key = "awesome"
 
 def toBinary(a):
   l,m=[],[]
