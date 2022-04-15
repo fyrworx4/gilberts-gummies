@@ -1,2 +1,2 @@
-# gilberts-gummies
-Gilbert's Gummies
+# OTP XOR Generator
+otp xor generator
